@@ -1,2 +1,2 @@
 # datos
-Set de datos que utilizo en ejemplos
+Sets de datos para utilizar en ejemplos.
